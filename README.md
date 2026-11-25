@@ -1,6 +1,6 @@
 # Linder
 
-> **What this repository is:** the design documentation and demo for Linder — high-level design, low-level design and key flows. The application source code is private. More projects: [portfolio](https://srajan1234.github.io/portfolio/).
+> **What this repository is:** the design documentation and demo for Linder — high-level design, low-level design and key flows. **The full source code is private because this is a personal project; I am happy to walk through it or discuss it on request.** More projects: [portfolio](https://srajan1234.github.io/portfolio/).
 
 > Swipe to get hired — a Tinder-style job-matching platform where seekers and recruiters match, then chat in real time.
 
